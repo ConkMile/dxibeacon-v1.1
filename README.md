@@ -26,7 +26,7 @@ Recommended reading order: Review the architecture and the two operating phases 
 
 The SDK uses a three-layer architecture: Manager → Device → Connection. Advertising-data parsing and protocol connections are independent. During scanning, the SDK only parses advertising packets and does not establish a connection. During the connection phase, each connection object exclusively manages one GATT link.
 
-<img width="1151" height="506" alt="image" src="https://github.com/user-attachments/assets/0c2166ef-8092-4f3a-9c68-2a8fd97b9910" />
+![Figure 1: SDK Architecture](preview/Image%201.png)
 *Figure 1. SDK layers and two independent paths (advertising-data parsing / protocol connection)*
 
 ### 1.2 Advertising Phase
