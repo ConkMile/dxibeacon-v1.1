@@ -11,7 +11,7 @@ An .aar integration guide for Android developers, covering project setup, permis
 **Java:** 8  
 **Protocol:** Proprietary BLE protocol
 
-## [DownLoad ibeaconsdk-release](https://github.com/ConkMile/DX-SMART-SDK/releases/download/V1.0.0/ibeaconsdk-release.aar)
+## [DownLoad ibeaconsdk-release](https://github.com/ConkMile/DX-SMART-SDK/releases/download/DxBeacon-SDK-v1.0.0/ibeaconsdk-release.aar)
 
 ## Documentation Overview
 
