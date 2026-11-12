@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/swEquip0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Equipment 1 (Linkable)" />
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/swEquip1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Equipment 2 (Turn off by button)" />
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/swEquip2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Equipment 3 (Password auth)" />
+
+</LinearLayout>
