@@ -15,8 +15,8 @@ An .aar integration guide for Android developers, covering project setup, permis
 
 | Resource Name | File | Version | Description | Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **Android SDK Library** | `ibeaconsdk-release.aar` | `v1.0.0` | Core `.aar` library for integration into your own Android project. | [⬇️ Download SDK](https://github.com/ConkMile/dxibeacon-v1.1/releases/download/DxBeacon-SDK-v1.0.0/ibeaconsdk-release.aar) |
-| **Client Demo Source** | `DXibeaconsdk_Demo.rar` | `v1.0.0` | Minimal Android Studio test project for quick evaluation and verification. | [⬇️ Download Demo](https://github.com/ConkMile/dxibeacon-v1.1/releases/download/DXibeaconSDK-Demo/DXibeaconSDK_Demo.rar) |
+| **Android SDK Library** | `ibeaconsdk-release.aar` | `v1.0.0` | Core `.aar` library for integration into your own Android project. | [Download SDK](https://github.com/ConkMile/dxibeacon-v1.1/releases/download/DxBeacon-SDK-v1.0.0/ibeaconsdk-release.aar) |
+| **Client Demo Source** | `DXibeaconsdk_Demo.rar` | `v1.0.0` | Minimal Android Studio test project for quick evaluation and verification. | [Download Demo](https://github.com/ConkMile/dxibeacon-v1.1/releases/download/DXibeaconSDK-Demo/DXibeaconSDK_Demo.rar) |
 
 ## Documentation Overview
 
